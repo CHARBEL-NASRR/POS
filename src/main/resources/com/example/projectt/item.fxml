@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="160.0" prefWidth="180.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.projectt.item">
+   <children>
+      <VBox layoutX="-1.0" layoutY="1.0" prefHeight="160.0" prefWidth="180.0">
+         <children>
+            <HBox prefHeight="22.0" prefWidth="180.0">
+               <children>
+                  <Label fx:id="item_name" prefHeight="21.0" prefWidth="111.0" text="Burger">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="10.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="item_price" layoutX="85.0" layoutY="10.0" prefHeight="21.0" prefWidth="51.0" text="0.0$">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <AnchorPane prefHeight="87.0" prefWidth="180.0">
+               <children>
+                  <ImageView fx:id="item_image" fitHeight="79.0" fitWidth="140.0" layoutX="19.0" layoutY="3.0" pickOnBounds="true" preserveRatio="true" />
+               </children>
+            </AnchorPane>
+         </children>
+      </VBox>
+      <HBox alignment="CENTER" layoutX="-2.0" layoutY="105.0" prefHeight="59.0" prefWidth="187.0">
+         <children>
+            <Spinner fx:id="spinner" prefHeight="25.0" prefWidth="95.0">
+               <HBox.margin>
+                  <Insets right="10.0" />
+               </HBox.margin>
+            </Spinner>
+            <Button fx:id="item_add" mnemonicParsing="false" onAction="#handleAddButtonAction" prefHeight="25.0" prefWidth="61.0" stylesheets="@../../../mainformdesign.css" text="Add">
+               <styleClass>
+                  <String fx:value="nav-btn" />
+                  <String fx:value="btn" />
+               </styleClass></Button>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

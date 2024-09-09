@@ -1,0 +1,97 @@
+[ {
+  "id" : 19,
+  "username" : "1",
+  "email" : "1@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "user"
+}, {
+  "id" : 22,
+  "username" : "11",
+  "email" : "11@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "user"
+}, {
+  "id" : 27,
+  "username" : "chabel",
+  "email" : "charbelnasr44@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "admin"
+}, {
+  "id" : 28,
+  "username" : "chabel",
+  "email" : "charbelnasr44@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "admin"
+}, {
+  "id" : 29,
+  "username" : "charbel",
+  "email" : "charbelnasr44@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "user"
+}, {
+  "id" : 30,
+  "username" : "charbel",
+  "email" : "charbelnasr44@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "user"
+}, {
+  "id" : 31,
+  "username" : "charbel",
+  "email" : "charbelnasr44@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "user"
+}, {
+  "id" : 32,
+  "username" : "charbel",
+  "email" : "charbelnasr44@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "user"
+}, {
+  "id" : 34,
+  "username" : "charbel",
+  "email" : "2@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "user"
+}, {
+  "id" : 35,
+  "username" : "charbel",
+  "email" : "4@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "user"
+}, {
+  "id" : 39,
+  "username" : "wissam",
+  "email" : "wissam@wi.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "admin"
+}, {
+  "id" : 40,
+  "username" : "hisham",
+  "email" : "hicham@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "admin"
+}, {
+  "id" : 42,
+  "username" : "admin",
+  "email" : "1",
+  "password" : "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+  "role" : "admin"
+}, {
+  "id" : 43,
+  "username" : "charbel",
+  "email" : "1",
+  "password" : "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+  "role" : "admin"
+}, {
+  "id" : 45,
+  "username" : "charbel",
+  "email" : "8@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "admin"
+}, {
+  "id" : 46,
+  "username" : "charbel",
+  "email" : "1@gmail.com",
+  "password" : "fa97e4e0744641195bad6e6cf8a35a93c36a7579bc1da53815c08001dc1c06a9",
+  "role" : "admin"
+} ]
